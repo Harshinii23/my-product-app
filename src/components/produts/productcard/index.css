@@ -3,6 +3,8 @@
     transition: 1s;
     padding: 10px;
     background-color: gray;
+    border: black 3pt;
+    border-style: solid;
 }
 
 .card-container:hover{
