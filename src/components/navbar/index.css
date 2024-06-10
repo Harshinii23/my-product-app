@@ -1,0 +1,21 @@
+ul{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    gap:80px;
+    justify-content: center;
+    background-color: black;
+    color:white;
+    padding: 0px;
+   
+}
+ul li{
+    display:inline-block;
+    margin-bottom: 80px;
+    text-align: left;
+    font-family: Arial;
+    margin-top: 50px;
+    margin-right: 50px;
+
+}
+

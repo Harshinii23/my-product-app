@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "id" : "1",
+            "name": "Notebook",
+            "img": "https://i.etsystatic.com/16463268/r/il/da68f9/1486816530/il_fullxfull.1486816530_r6jv.jpg",
+            "price": "200"
+        },
+        {
+            "id" : "2",
+            "name": "Laptop",
+            "img": "https://i.etsystatic.com/16463268/r/il/da68f9/1486816530/il_fullxfull.1486816530_r6jv.jpg",
+            "price": "400"
+        },
+        {
+            "id" : "3",
+            "name": "Mobile",
+            "img": "https://i.etsystatic.com/16463268/r/il/da68f9/1486816530/il_fullxfull.1486816530_r6jv.jpg",
+            "price": "600"
+        },
+        {
+            "id" : "4",
+            "name": "Ball",
+            "img": "https://i.etsystatic.com/16463268/r/il/da68f9/1486816530/il_fullxfull.1486816530_r6jv.jpg",
+            "price": "600"
+        }
+        
+    ]
+
+}
