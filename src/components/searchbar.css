@@ -1,0 +1,15 @@
+input[type="text"]{
+    width: 250px;
+    background-color: transparent;
+    transition: width 1s ease-out;
+    position: relative;
+    top: 30px;
+}
+input[type="text"]:focus{
+    width: 40%;
+}
+h2{
+    position: relative;
+    top:40px;
+    }
+

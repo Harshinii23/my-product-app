@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    background-color: #333;
+    color: white;
+    align-items: center;
+    width: 100%;
+    padding: 0px;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+}
+
+.linkList{
+    display: flex;
+    list-style: none;
+    padding-right: 20px;
+}
+
+.linkList li{
+margin-left: 20px;
+}
+
+/* .link:hover{
+    color: lightsalmon;
+} */
+
+.link a{
+    color: #ddd;
+    text-decoration: none;
+}
+
+.link a:hover{
+    color: lightsalmon;
+}
