@@ -15,7 +15,6 @@ const handleClick=()=>{
       <div className="btn" onClick={handleClick}>
         Product List
       </div>
-
     </div>
   );
 };

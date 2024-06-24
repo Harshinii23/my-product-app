@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+ .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:300px;
+      }
+  
+    .footer-content {
+        margin: auto;
+      }
+  
+  .footer .logo-text {
+    color: #fff;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    font-size: 14px;
+    border-top: 1px solid #444;
+    position: relative;
+    top:70px ;
+ }
+  .contact{
+    font-size: 20px;
+    position: relative;
+    top:40px;
+    left:320px;
+  }
+  
+  .para{
+    position: relative;
+    bottom:110px;
+  }
+  .footer-section{
+    font-size: 35px;
+  }
+  

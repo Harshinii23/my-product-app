@@ -5,6 +5,8 @@ import MyHome from './components/myhome/myhome';
 import ContactUs from './components/contactus/contactus';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AboutUs from './components/aboutus/aboutus';
+import Footer from './components/footer/footer';
+
 
 function App() {
   
@@ -20,6 +22,8 @@ function App() {
 
         </Routes>
       </Router>
+      <Footer/>
+
     </>
   );
 }
