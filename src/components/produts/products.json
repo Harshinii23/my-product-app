@@ -1,54 +1,52 @@
 {
     "products": [
         {
-            "id" : "1",
+            "id": "1",
             "name": "Notebook",
             "img": "https://i.etsystatic.com/13873963/r/il/24b8f4/4082979088/il_1080xN.4082979088_e8na.jpg",
             "price": "200"
         },
         {
-            "id" : "2",
+            "id": "2",
             "name": "Laptop",
             "img": "https://dev.mos.cms.futurecdn.net/o8g2bEtp4dfmDPTdjavRGf.jpg",
             "price": "400"
         },
         {
-            "id" : "3",
+            "id": "3",
             "name": "Lamp",
             "img": "https://i5.walmartimages.com/asr/029a1e61-f5a5-4884-b3cd-6ea7de4216f8_3.a4d1f28f90097e5bd994c5440f877611.jpeg",
             "price": "600"
         },
         {
-            "id" : "4",
+            "id": "4",
             "name": "Mobile Phone",
             "img": "https://i5.walmartimages.com/asr/0ea23972-eead-4610-b162-a633466b473f.0e38fa073ff89c8f5ee6f5702154e7c9.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
             "price": "600"
         },
         {
-            "id" : "5",
+            "id": "5",
             "name": "Mobile Phone",
             "img": "https://i5.walmartimages.com/asr/0ea23972-eead-4610-b162-a633466b473f.0e38fa073ff89c8f5ee6f5702154e7c9.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
             "price": "600"
         },
         {
-            "id" : "6",
+            "id": "6",
             "name": "Mobile Phone",
             "img": "https://i5.walmartimages.com/asr/0ea23972-eead-4610-b162-a633466b473f.0e38fa073ff89c8f5ee6f5702154e7c9.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
             "price": "600"
         },
-         
         {
-            "id" : "1",
+            "id": "1",
             "name": "Notebook",
             "img": "https://i.etsystatic.com/13873963/r/il/24b8f4/4082979088/il_1080xN.4082979088_e8na.jpg",
             "price": "200"
         },
         {
-            "id" : "1",
+            "id": "1",
             "name": "Notebook",
             "img": "https://i.etsystatic.com/13873963/r/il/24b8f4/4082979088/il_1080xN.4082979088_e8na.jpg",
             "price": "200"
         }
     ]
-
 }

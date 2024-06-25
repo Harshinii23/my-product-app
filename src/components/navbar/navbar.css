@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     display: flex;
     background-color: #333;
     color: white;
@@ -11,26 +11,26 @@
     z-index: 1000;
 }
 
-.img{
+.img {
     height: 50px;
     width: 50px;
 }
 
-.linkList{
+.linkList {
     display: flex;
     list-style: none;
     padding-right: 20px;
 }
 
-.linkList li{
-margin-left: 20px;
+.linkList li {
+    margin-left: 20px;
 }
 
-.link a{
+.link a {
     color: #ddd;
     text-decoration: none;
 }
 
-.link a:hover{
+.link a:hover {
     color: lightsalmon;
 }

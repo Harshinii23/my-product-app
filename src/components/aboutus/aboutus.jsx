@@ -7,7 +7,7 @@ const AboutUs = () => {
     return (
         <div className="about">
             <h1>About Us</h1>
-            <Carousel autoPlay={true}interval={2000} >
+            <Carousel autoPlay={true} interval={2000} >
                 <div>
                     <img src="https://dev.mos.cms.futurecdn.net/o8g2bEtp4dfmDPTdjavRGf.jpg" alt=" 1" />
                     <p className="pic"> 1</p>
@@ -16,7 +16,7 @@ const AboutUs = () => {
                     <img src="https://dev.mos.cms.futurecdn.net/o8g2bEtp4dfmDPTdjavRGf.jpg" alt=" 2" />
                     <p className="pic"> 2</p>
                 </div>
-                <div> 
+                <div>
                     <img src="https://dev.mos.cms.futurecdn.net/o8g2bEtp4dfmDPTdjavRGf.jpg" alt=" 3" />
                     <p className="pic"> 3</p>
                 </div>

@@ -1,12 +1,14 @@
 .about {
     text-align: center;
 }
+
 .about h1 {
     font-size: 30px;
     margin-bottom: 20px;
 }
-.carousel-root{
-    width:30vw;
+
+.carousel-root {
+    width: 30vw;
     align-items: center;
     margin: auto;
 }
